@@ -1,0 +1,251 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1719172694402137, "dur":18248, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694420391, "dur":90, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694420510, "dur":340, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694420874, "dur":2432, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694423307, "dur":195991, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694619300, "dur":287, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694619815, "dur":2330, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1719172694421066, "dur":2260, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1719172694423328, "dur":685, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1719172694424013, "dur":4595, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1719172694428637, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1719172694428609, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1719172694445763, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1719172694447271, "dur":4716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694452037, "dur":1064, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694452036, "dur":1067, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694453117, "dur":4784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694457963, "dur":4926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694462975, "dur":5058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694468097, "dur":3921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694472079, "dur":3995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694476132, "dur":3647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694479848, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694479846, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694480050, "dur":21349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1719172694501442, "dur":117861, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1719172694421023, "dur":2289, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1719172694423314, "dur":5268, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1719172694443460, "dur":1042, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1719172694444511, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1719172694444611, "dur":8081, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1719172694452694, "dur":85, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1719172694452994, "dur":236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1719172694453231, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":2, "ts":1719172694453342, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player64bb2cd0-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1719172694444509, "dur":9069, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1719172694453825, "dur":52, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1719172694453880, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1719172694454331, "dur":160249, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1719172694618113, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1719172694618112, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1719172694618251, "dur":1006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1719172694421061, "dur":2257, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1719172694423322, "dur":747, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1719172694424069, "dur":4535, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1719172694428605, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1719172694436197, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1719172694437674, "dur":1840, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project.exe" }}
+,{ "pid":12345, "tid":3, "ts":1719172694439798, "dur":2848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694442707, "dur":2877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694445669, "dur":2577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694448311, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694452074, "dur":430, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694452073, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694452519, "dur":3116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694455707, "dur":3839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694459620, "dur":3820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694463543, "dur":3992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694467615, "dur":3216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694470915, "dur":4154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694475142, "dur":3017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694478223, "dur":6800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1719172694485096, "dur":3747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/resources.assets" }}
+,{ "pid":12345, "tid":3, "ts":1719172694488901, "dur":130416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1719172694421100, "dur":2233, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1719172694423335, "dur":674, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1719172694424009, "dur":4586, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1719172694428599, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1719172694444058, "dur":3296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1719172694447451, "dur":3532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694451170, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694451169, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694451275, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694454175, "dur":3877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694458138, "dur":4086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694467823, "dur":73, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1719172694462279, "dur":5660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694468061, "dur":4318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694472460, "dur":5665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694478185, "dur":4855, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1719172694484140, "dur":4179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1719172694488355, "dur":130964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1719172694421142, "dur":2197, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1719172694423342, "dur":753, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1719172694424096, "dur":4496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1719172694428597, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694430301, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694433596, "dur":1446, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694435092, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694435090, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694435616, "dur":1414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1719172694437079, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694437077, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694437543, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694439795, "dur":5613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694445475, "dur":3821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694449371, "dur":4274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694453722, "dur":3897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694457684, "dur":3813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694461564, "dur":5527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694467147, "dur":3556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694470826, "dur":4686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694475690, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694475767, "dur":6219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1719172694482064, "dur":5744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1719172694487857, "dur":131444, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1719172694421170, "dur":2176, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1719172694423348, "dur":719, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1719172694424068, "dur":4531, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1719172694428601, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1719172694430637, "dur":2321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1719172694433548, "dur":1335, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1719172694434922, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1719172694435657, "dur":1345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1719172694437914, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1719172694439778, "dur":5207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694445066, "dur":2983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694448100, "dur":4877, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694453035, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694453034, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694453152, "dur":4022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694457289, "dur":3660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694461013, "dur":3911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694465019, "dur":4287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694469363, "dur":4279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694473717, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694477316, "dur":4717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1719172694482158, "dur":3526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1719172694485738, "dur":5249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":6, "ts":1719172694491025, "dur":128296, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1719172694421202, "dur":2149, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1719172694423354, "dur":716, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1719172694424070, "dur":4531, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1719172694428604, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1719172694445058, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1719172694447212, "dur":2955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694450210, "dur":410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694450209, "dur":412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694450638, "dur":3263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694453989, "dur":3834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694457883, "dur":3845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694461801, "dur":4789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694466653, "dur":3493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694470204, "dur":4456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694474714, "dur":3770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694478544, "dur":6866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1719172694485470, "dur":5820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1719172694491340, "dur":127969, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1719172694421238, "dur":2119, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1719172694423359, "dur":716, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1719172694424076, "dur":4527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1719172694428604, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1719172694434517, "dur":1400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1719172694435961, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1719172694435959, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1719172694436078, "dur":1892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1719172694438012, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1719172694438624, "dur":3903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1719172694442636, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694445342, "dur":3340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694448733, "dur":3671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694452475, "dur":635, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694452474, "dur":637, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694453125, "dur":3015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694456207, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694459960, "dur":3668, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694468482, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1719172694463716, "dur":4911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694468721, "dur":4392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694473188, "dur":3744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694476996, "dur":3859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1719172694480934, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1719172694484503, "dur":3672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1719172694488229, "dur":131064, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1719172694421272, "dur":2090, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1719172694423364, "dur":324, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1719172694423688, "dur":4906, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1719172694428595, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1719172694430237, "dur":2816, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":9, "ts":1719172694433597, "dur":1613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":9, "ts":1719172694435668, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1719172694437263, "dur":141, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694437261, "dur":144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694437610, "dur":9065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694446741, "dur":3191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694449972, "dur":106, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694449971, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694450094, "dur":3493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694453639, "dur":3558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694457292, "dur":2930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694460292, "dur":3874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694464241, "dur":4409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694468711, "dur":4034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694472829, "dur":3683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694476569, "dur":3734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1719172694480364, "dur":4780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":9, "ts":1719172694485214, "dur":2981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/level0.resS" }}
+,{ "pid":12345, "tid":9, "ts":1719172694488234, "dur":131061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1719172694421309, "dur":2059, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1719172694423369, "dur":5219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1719172694428618, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1719172694428596, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1719172694459705, "dur":2768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":10, "ts":1719172694462527, "dur":4296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1719172694466890, "dur":3858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1719172694470862, "dur":5086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1719172694476001, "dur":3761, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1719172694479823, "dur":9045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1719172694488971, "dur":130334, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1719172694421342, "dur":2034, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1719172694423377, "dur":5214, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1719172694428624, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.33f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1719172694428596, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1719172694442814, "dur":2299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1719172694445243, "dur":2990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694448307, "dur":4016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694452375, "dur":303, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694452374, "dur":305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694452711, "dur":2617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694455393, "dur":3747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694459196, "dur":4108, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694463546, "dur":4213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694467820, "dur":3422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694471309, "dur":4215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694475632, "dur":3718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694479422, "dur":6858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1719172694486379, "dur":4891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":11, "ts":1719172694491317, "dur":127990, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1719172694421375, "dur":2008, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1719172694423384, "dur":5203, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1719172694428606, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1719172694435442, "dur":1218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/app.info" }}
+,{ "pid":12345, "tid":12, "ts":1719172694436710, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1719172694438763, "dur":6162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694444996, "dur":2831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694447921, "dur":4083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694452042, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\ceema\\My project\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694452041, "dur":189, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694452248, "dur":2520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694454820, "dur":3496, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694458368, "dur":3579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694462041, "dur":3887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694466007, "dur":3922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694469992, "dur":4708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694474757, "dur":2893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694477794, "dur":7515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1719172694485386, "dur":3660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/ceema/Desktop/Jogo3d/My project_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1719172694489096, "dur":130219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1719172694625493, "dur":1300, "ph":"X", "name": "ProfilerWriteOutput" }
+,
